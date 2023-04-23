@@ -1,0 +1,6 @@
+.env
+.venv
+example.db
+aitss.session-journal
+aitss.session
+download
